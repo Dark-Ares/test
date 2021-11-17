@@ -1,3 +1,5 @@
 model line 1
 
 model line 3
+
+git fetch
